@@ -1,0 +1,2 @@
+# squarespace-to-magento
+abc
